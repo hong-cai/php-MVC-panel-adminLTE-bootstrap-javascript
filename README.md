@@ -19,7 +19,7 @@ This is a sample Admin Panel created with php ,MVC ,adminLTE and Javscript
 ## Guiding Video
 [CLICK:(on the way...)](https://sophie-nz.monster/mvc/users/register)
 ## Screenshots
-![user login](/userLogin.jpg)
-![dashboard](/addNotes.jpg)
-![add post](/dashboard.jpg)
-![users update](/EditUsers.jpg)
+![user login](/userLogin.jpg | width=300)
+![dashboard](/addNotes.jpg | width=300)
+![add post](/dashboard.jpg | width=300)
+![users update](/EditUsers.jpg | width=300)
