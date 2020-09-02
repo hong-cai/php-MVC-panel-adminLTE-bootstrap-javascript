@@ -19,8 +19,9 @@ This is a sample Admin Panel created with php ,MVC ,adminLTE and Javscript
 ## Guiding Video
 [CLICK:(on the way...)](https://sophie-nz.monster/mvc/users/register)
 ## Screenshots
-![user login](/UserLogin.jpg =250x250)
 
-![dashboard](/addNotes.jpg | width=300)
-![add post](/dashboard.jpg | width=300)
-![users update](/EditUsers.jpg | width=300)
+![user login]<img src="https://github.com/hong-cai/php-MVC-panel-adminLTE-bootstrap-javascript/blob/master/UserLogin.jpg" width="500">
+
+![dashboard]<img src="https://github.com/hong-cai/php-MVC-panel-adminLTE-bootstrap-javascript/blob/master/dashboard.jpg" width="500">
+![add post]<img src="https://github.com/hong-cai/php-MVC-panel-adminLTE-bootstrap-javascript/blob/master/addNotes.jpg" width="500">
+![users update]<img src="https://github.com/hong-cai/php-MVC-panel-adminLTE-bootstrap-javascript/blob/master/EditUsers.jpg" width="500">
