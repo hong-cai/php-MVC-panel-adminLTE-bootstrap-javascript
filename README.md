@@ -23,5 +23,7 @@ This is a sample Admin Panel created with php ,MVC ,adminLTE and Javscript
 ![user login]<img src="https://github.com/hong-cai/php-MVC-panel-adminLTE-bootstrap-javascript/blob/master/UserLogin.jpg" width="500">
 
 ![dashboard]<img src="https://github.com/hong-cai/php-MVC-panel-adminLTE-bootstrap-javascript/blob/master/dashboard.jpg" width="500">
+
 ![add post]<img src="https://github.com/hong-cai/php-MVC-panel-adminLTE-bootstrap-javascript/blob/master/addNotes.jpg" width="500">
+
 ![users update]<img src="https://github.com/hong-cai/php-MVC-panel-adminLTE-bootstrap-javascript/blob/master/EditUsers.jpg" width="500">
