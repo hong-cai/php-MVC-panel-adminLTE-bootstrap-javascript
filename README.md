@@ -17,7 +17,7 @@ This is a sample Admin Panel created with php ,MVC ,adminLTE and Javscript
 * Dynamic keyword search, category filter system
 * Deploy on Google Cloud
 ## Guiding Video
-[CLICK:(on the way...)](https://sophie-nz.monster/mvc/users/register)
+[CLICK](https://youtu.be/nbGjdbRH7KM)
 ## Screenshots
 
 ![user login]<img src="https://github.com/hong-cai/php-MVC-panel-adminLTE-bootstrap-javascript/blob/master/UserLogin.jpg" width="500">
